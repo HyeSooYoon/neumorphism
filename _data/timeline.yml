@@ -17,45 +17,48 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
+- title: NHN한국사이버결제
   title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+  date: 2019.04 - Present
+  subtitle: 간편결제 프론트 웹개발 유지보수
   tags:
-    - tag: React
+    - tag: java
     - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: jQuery
+    - tag: Spring
   timeline-side: right
 
-- title: Google
+- title: 비에스지원
   title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+  date: 2018.03 - 2019.04
+  subtitle: SAP B1 ERP 구축 프로젝트 진행
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
+    - tag: C#
+    - tag: JSON
+    - tag: HANA DB
+  timeline-side: right
+  
+  - title: 씨피엠에스
+  title-url: https://example.com/
+  date: 2016.03 - 2017.12
+  subtitle: 제품관리솔루션(PLM) 유지보수, ERP 유지보수
+  tags:
+    - tag: java
+    - tag: Oracle
+    - tag: Bash
+    - tag: jsp
+    - tag: Procedure
   timeline-side: right
 
-- title: Super University
+- title: 더조은아카데미
   title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  date: 2015.03 ~ 2015.08
+  subtitle: (NCS)자바안드로이드 정보시스템개발자
   timeline-side: left
 
-- title: Facebook
+- title: 한신대학교 졸업
   title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+  date: 2015.02
+  subtitle: 독어독문학과
   timeline-side: left
+
