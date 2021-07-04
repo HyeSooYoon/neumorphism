@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: NHN한국사이버결제
-  title-url: https://example.com/
+  title-url: https://www.kcp.co.kr/
   date: 2019.04 - Present
   subtitle: 간편결제 프론트 웹개발 유지보수
   tags:
@@ -29,7 +29,7 @@
   timeline-side: right
 
 - title: 비에스지원
-  title-url: https://example.com/
+  title-url: https://www.bsgone.com/
   date: 2018.03 - 2019.04
   subtitle: SAP B1 ERP 구축 프로젝트 진행
   tags:
@@ -39,7 +39,7 @@
   timeline-side: right
   
 - title: 씨피엠에스
-  title-url: https://example.com/
+  title-url: https://www.cpms.co.kr/
   date: 2016.03 - 2017.12
   subtitle: 제품관리솔루션(PLM) 유지보수, ERP 유지보수
   tags:
@@ -50,15 +50,15 @@
     - tag: Procedure
   timeline-side: right
 
-- title: 더조은아카데미
-  title-url: https://example.com/
+- title: 더조은아카데미 교육 이수
+  title-url: https://www.tjoeun.co.kr/
   date: 2015.03 ~ 2015.08
   subtitle: (NCS)자바안드로이드 정보시스템개발자
   timeline-side: left
 
-- title: 한신대학교 졸업
-  title-url: https://example.com/
+- title: 한신대학교
+  title-url: http://www.hs.ac.kr/intro.html/
   date: 2015.02
-  subtitle: 독어독문학과
+  subtitle: 독어독문학과 졸업
   timeline-side: left
 
