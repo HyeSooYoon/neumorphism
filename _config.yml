@@ -34,7 +34,8 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 안녕하세요. 제 포트폴리오에 방문해주셔서 감사합니다. 저는 비전공자 출신 개발자로서, 2015년 2월 독어독문학과 졸업을 앞두고 나에게 있어 가장 에너지 넘치며 즐겁다고 느꼈던 일이 무엇이었을까 고민 끝에 이공계쪽에 관심을 가지게 되었고 그 결과 개발자의 길을 걷게 되었습니다. 첫 직장으로 제품관리 솔루션 서비스 회사에서 ERP와 웹 솔루션 유지보수를 맡아왔고 그 후 ERP SAP B1 구축 프로젝트를 진행해왔습니다. 현재는 결제대행업체 에서 간편결제 웹 프론트단을 맡고 있습니다.
+about_me_description: WHO AM I? <br><br>윤혜수<br><br>1992.05.07<br><br>경기<br><br>GRADUATION<br><br>2011.02 은행고등학교 졸업<br><br>2011.03 한신대학교 독어독문학과 입학<br><br>2015.02 한신대학교 독어독문학과 졸업<br><br>
+# 안녕하세요. 제 포트폴리오에 방문해주셔서 감사합니다. 저는 비전공자 출신 개발자로서, 2015년 2월 독어독문학과 졸업을 앞두고 나에게 있어 가장 에너지 넘치며 즐겁다고 느꼈던 일이 무엇이었을까 고민 끝에 이공계쪽에 관심을 가지게 되었고 그 결과 개발자의 길을 걷게 되었습니다. 첫 직장으로 제품관리 솔루션 서비스 회사에서 ERP와 웹 솔루션 유지보수를 맡아왔고 그 후 ERP SAP B1 구축 프로젝트를 진행해왔습니다. 현재는 결제대행업체 에서 간편결제 웹 프론트단을 맡고 있습니다.
 
 # SKILLS SECTION
 # show_skills_card:
