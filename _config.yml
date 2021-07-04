@@ -34,8 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 안녕하세요! 제 포트폴리오에 방문해주셔서 감사합니다. 저는 비전공자 개발자 출신으로서,  2015년 2월 독어독문학과 졸업을 앞두고 가장 나에게 에너지 넘치며 즐거웠던 일이 무엇이었을까 고민 끝에 이공계쪽 관심을 가지게 되어 개발자의 길을 걷게 되었습니다. 
-그 후로 제품관리 시스템 솔루션 회사에서 ERP와 웹 솔루션 유지보수, 운영을 맡았으며 그 후엔 ERP 외제솔루션인 SAP B1 ERP 구축 프로젝트를 진행해왔습니다. 현재는 결제대행업체 에서 간편결제 웹 프론트단을 맡고 있습니다. 
+about_me_description: 안녕하세요! 제 포트폴리오에 방문해주셔서 감사합니다. 저는 비전공자 개발자 출신으로서,  2015년 2월 독어독문학과 졸업을 앞두고 가장 나에게 에너지 넘치며 즐거웠던 일이 무엇이었을까 고민 끝에 이공계쪽 관심을 가지게 되어 개발자의 길을 걷게 되었습니다. 그 후로 제품관리 시스템 솔루션 회사에서 ERP와 웹 솔루션 유지보수, 운영을 맡았으며 그 후엔 ERP 외제솔루션인 SAP B1 ERP 구축 프로젝트를 진행해왔습니다. 현재는 결제대행업체 에서 간편결제 웹 프론트단을 맡고 있습니다. 
 
 # SKILLS SECTION
 # show_skills_card:
