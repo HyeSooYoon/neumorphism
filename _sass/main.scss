@@ -12,6 +12,7 @@ $medium-screen: 62em !default;
 $large-screen: 75em !default;
 $font-family: "Raleway", sans-serif;
 $font-family-numbers: "Josefin Sans", sans-serif;
+$font-family-korean: "Nanum Myeongjo", serif;
 $font-size-base: 1rem !default;
 $font-size-h1: 2rem !default;
 $font-weight-strong: 600;
@@ -395,17 +396,17 @@ a {
 
   div[skill-type="language"] {
     color: #e84a5f;
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: $font-family-korean;
   }
 
   div[skill-type="framework"] {
     color: #ff847c;
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: '$font-family-korean;
   }
 
   div[skill-type="tool"] {
     color: #fecea8;
-    font-family: 'Nanum Myeongjo', serif;
+    font-family: $font-family-korean;
   }
 
   div[skill-weight="1"] {
