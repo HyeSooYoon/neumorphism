@@ -395,18 +395,15 @@ a {
   }
 
   div[skill-type="language"] {
-    color: #e84a5f;
-    font-family: $font-family-korean;
+    color: #e84a5f; 
   }
 
   div[skill-type="framework"] {
-    color: #ff847c;
-    font-family: '$font-family-korean;
+    color: #ff847c; 
   }
 
   div[skill-type="tool"] {
-    color: #fecea8;
-    font-family: $font-family-korean;
+    color: #fecea8; 
   }
 
   div[skill-weight="1"] {
@@ -668,6 +665,7 @@ a {
 
   .layout .card .description {
     font-size: 1.25rem;
+	font-family: $font-family-korean
   }
 
   .landing-title h1 {
@@ -916,3 +914,5 @@ a {
     bottom: 0;
   }
 }
+
+
