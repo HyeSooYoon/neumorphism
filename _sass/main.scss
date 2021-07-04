@@ -2,6 +2,8 @@
 
 @import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Josefin+Sans&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&display=swap');
+
 
 /* Variables */
 
@@ -393,14 +395,17 @@ a {
 
   div[skill-type="language"] {
     color: #e84a5f;
+    font-family: 'Nanum Myeongjo', serif;
   }
 
   div[skill-type="framework"] {
     color: #ff847c;
+    font-family: 'Nanum Myeongjo', serif;
   }
 
   div[skill-type="tool"] {
     color: #fecea8;
+    font-family: 'Nanum Myeongjo', serif;
   }
 
   div[skill-weight="1"] {
