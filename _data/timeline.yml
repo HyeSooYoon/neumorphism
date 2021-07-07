@@ -25,7 +25,8 @@
     - tag: java
     - tag: Javascript
     - tag: jQuery
-    - tag: Spring
+    - tag: jsp
+    - tag: Springboot
   timeline-side: right
 
 - title: 비에스지원
@@ -34,7 +35,7 @@
   subtitle: SAP B1 ERP 구축 프로젝트 진행
   tags:
     - tag: C#
-    - tag: JSON
+    - tag: REST API
     - tag: HANA DB
   timeline-side: right
   
