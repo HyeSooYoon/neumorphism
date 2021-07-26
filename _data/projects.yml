@@ -22,3 +22,11 @@
     - tag: java
     - tag: iBatis
     - tag: Vue.js
+    
+- name: 동영상 플렛폼 통합 조회 사이트
+  descr: 유뷰트, 트위치, 카카오tv 등 동영상 플렛폼 환경에서 통합 검색이 가능한 사이트
+#   demo: https://hyesooyoon.github.io/showRoom/
+  tags:
+    - tag: javascript
+    - tag: java    
+    - tag: Vue.js    
