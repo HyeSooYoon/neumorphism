@@ -15,7 +15,7 @@
 
 - name: 화장품 회원제 투표 사이트
   descr: 파운데이션, 아이라이너 등 코스메틱 화장품을 대상으로 하여 회원들간 투표를 통해 최고의 제품을 선정하여 공유하는 커뮤니티 사이트. 순위는 일주일간 유지되며 주초에 투표를 재개한다.
-  demo: https://hyesooyoon.github.io/showRoom/
+  demo: https://hyesooyoon.github.io/showRoom/portfolio/2021/07/05/Spray-Project.html
   tags:
     - tag: Mysql
     - tag: javascript
@@ -25,7 +25,7 @@
     
 - name: 동영상 플렛폼 통합 조회 사이트
   descr: 유튜브, 트위치, 카카오tv 등 동영상 플렛폼 환경에서 통합 검색이 가능한 사이트 이다. 
-  demo: https://hyesooyoon.github.io/showRoom/
+  demo: https://hyesooyoon.github.io/showRoom/portfolio/2021/08/07/VD-Project.html
   tags:
     - tag: javascript
     - tag: java    
