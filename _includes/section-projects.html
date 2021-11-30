@@ -23,7 +23,7 @@
     {% endfor %}
   </div>
 {% endif %}
-
+<!-- 
 {% if site.show_os_projects %}
   <h1 class="title">{{site.os_projects_title}}</h1>
   {% if site.projects.sort_by == 'stars' %}
@@ -42,7 +42,7 @@
     {% assign filtered_repos = site.github.public_repositories | sort: sort_order | reverse %}
   {% endif %}
 
-<!--   <div class="projects-wrapper">
+  <div class="projects-wrapper">
     {% for repository in filtered_repos %}
       {% unless site.projects.exclude.projects contains repository.name %}
         <div class="project neumorphism-card" data-aos="zoom-in-down">
